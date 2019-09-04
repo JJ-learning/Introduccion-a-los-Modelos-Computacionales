@@ -1,1 +1,2 @@
-Introducción a los Modelos Computacionales
+# Introducción a los Modelos Computacionales
+Course passed with: 

@@ -1,2 +1,2 @@
 # Introducción a los Modelos Computacionales
-Course passed with: 
+Course passed with: 7'2
